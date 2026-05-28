@@ -1,0 +1,11 @@
+streams/src/test/java/org/apache/kafka/streams/processor/internals/ProcessorStateManagerTest.java
+  ai_agent 975-1108
+streams/src/main/java/org/apache/kafka/streams/processor/internals/ProcessorStateManager.java
+  ai_agent 21,60-61,199,537-538,552-557,559-564,575-602,717,719-723,727
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "2cd0815b9866755482451e703188ebf7c71666ee",
+  "prompts": {}
+}
